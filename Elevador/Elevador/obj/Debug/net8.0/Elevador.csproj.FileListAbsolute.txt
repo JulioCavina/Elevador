@@ -1,0 +1,14 @@
+C:\Users\julio\source\repos\Elevador\Elevador\bin\Debug\net8.0\Elevador.exe
+C:\Users\julio\source\repos\Elevador\Elevador\bin\Debug\net8.0\Elevador.deps.json
+C:\Users\julio\source\repos\Elevador\Elevador\bin\Debug\net8.0\Elevador.runtimeconfig.json
+C:\Users\julio\source\repos\Elevador\Elevador\bin\Debug\net8.0\Elevador.dll
+C:\Users\julio\source\repos\Elevador\Elevador\bin\Debug\net8.0\Elevador.pdb
+C:\Users\julio\source\repos\Elevador\Elevador\obj\Debug\net8.0\Elevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\source\repos\Elevador\Elevador\obj\Debug\net8.0\Elevador.AssemblyInfoInputs.cache
+C:\Users\julio\source\repos\Elevador\Elevador\obj\Debug\net8.0\Elevador.AssemblyInfo.cs
+C:\Users\julio\source\repos\Elevador\Elevador\obj\Debug\net8.0\Elevador.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\Elevador\Elevador\obj\Debug\net8.0\Elevador.dll
+C:\Users\julio\source\repos\Elevador\Elevador\obj\Debug\net8.0\refint\Elevador.dll
+C:\Users\julio\source\repos\Elevador\Elevador\obj\Debug\net8.0\Elevador.pdb
+C:\Users\julio\source\repos\Elevador\Elevador\obj\Debug\net8.0\Elevador.genruntimeconfig.cache
+C:\Users\julio\source\repos\Elevador\Elevador\obj\Debug\net8.0\ref\Elevador.dll
